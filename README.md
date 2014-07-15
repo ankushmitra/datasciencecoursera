@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Github account or Coursera's data science course
+Github account for Coursera's data science course
